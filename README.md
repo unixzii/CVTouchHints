@@ -14,6 +14,8 @@ Since we know, in Android's developer settings, we can toggle on a option that w
 ## Usage
 **Step 0.** Before using it, don't forget to make a hint image. Of course, I had included my crafty image in this repo (see `Resources` directory), you can directly use it.
 
+> Attention: The image should be **64px * 64px**.
+
 **Step 1.** Drop the `UIApplication+TouchHints.m` and `UIApplication+TouchHints.h` to your project.
 
 **Step 2.** Add below line of code to `AppDelegate.m`:
